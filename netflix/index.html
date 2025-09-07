@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Clone</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="header__left">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix Logo" class="logo">
+            <nav class="nav">
+                <a href="#" class="nav__link active">Início</a>
+                <a href="#" class="nav__link">Séries</a>
+                <a href="#" class="nav__link">Filmes</a>
+                <a href="#" class="nav__link">Bombando</a>
+                <a href="#" class="nav__link">Minha Lista</a>
+            </nav>
+        </div>
+        <div class="header__right">
+            <div class="search-container">
+                <input type="text" id="searchInput" class="search-input" placeholder="Títulos, gêneros, etc.">
+                <i class="fa-solid fa-magnifying-glass search-icon icon"></i>
+            </div>
+            <i class="fa-solid fa-bell icon"></i>
+            <img src="img/user.png" alt="User Avatar" class="avatar">
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-banner">
+            <div class="hero-banner__content">
+                <h1>Stranger Things</h1>
+                <p>Em uma pequena cidade, um grupo de amigos descobre segredos sobrenaturais, incluindo a existência de uma garota com poderes telecinéticos.</p>
+                <div class="hero-banner__actions">
+                    <button class="btn btn-primary"><i class="fa-solid fa-play"></i> Assistir</button>
+                    <button class="btn btn-secondary"><i class="fa-solid fa-circle-info"></i> Mais informações</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="carousels">
+            </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__socials">
+            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+        </div>
+        <ul class="footer__links">
+            <li><a href="#">Termos de Uso</a></li>
+            <li><a href="#">Política de Privacidade</a></li>
+            <li><a href="#">Ajuda</a></li>
+            <li><a href="#">Centro de Imprensa</a></li>
+            <li><a href="#">Relações com Investidores</a></li>
+            <li><a href="#">Carreiras</a></li>
+        </ul>
+        <p>&copy; 2024 Netflix, Inc.</p>
+    </footer>
+
+    <div id="movieModal" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close-btn"><i class="fa-solid fa-xmark"></i></button>
+            <div class="modal-header">
+                <img id="modalThumbnail" src="" alt="Thumbnail">
+            </div>
+            <div class="modal-body">
+                <h2 id="modalTitle"></h2>
+                <p id="modalDescription"></p>
+                <p id="modalDirector"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+{
+  "trending": [
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "thumbnail": "img/Stranger Things.png",
+      "description": "Em uma pequena cidade, um grupo de amigos descobre segredos sobrenaturais, incluindo a existência de uma garota com poderes telecinéticos.",
+      "director": "Matt & Ross Duffer"
+    },
+    {
+      "id": 2,
+      "title": "The Witcher",
+      "thumbnail": "img/The Witcher.png",
+      "description": "Geralt de Rivia, um caçador de monstros solitário, luta para encontrar seu lugar em um mundo onde as pessoas muitas vezes se mostram mais perversas que as feras.",
+      "director": "Lauren Schmidt Hissrich"
+    },
+    {
+      "id": 3,
+      "title": "Bridgerton",
+      "thumbnail": "img/Bridgerton.png",
+      "description": "Baseada nos livros best-sellers, esta série dramática acompanha os oito irmãos da poderosa família Bridgerton em sua busca por amor e felicidade na alta sociedade de Londres.",
+      "director": "Shonda Rhimes"
+    },
+    {
+      "id": 4,
+      "title": "Lupin",
+      "thumbnail": "img/Lupin.png",
+      "description": "Inspirado no ladrão Arsène Lupin, o ladrão gentil Assane Diop parte em busca de vingança por uma injustiça cometida por uma família rica contra seu pai.",
+      "director": "George Kay"
+    },
+    {
+      "id": 5,
+      "title": "Dark",
+      "thumbnail": "img/Dark.png",
+      "description": "O desaparecimento de duas crianças em uma pequena cidade alemã expõe os segredos de quatro famílias e as complexas relações de viagem no tempo entre elas.",
+      "director": "Baran bo Odar & Jantje Friese"
+    },
+    {
+      "id": 6,
+      "title": "Cobra Kai",
+      "thumbnail": "img/Cobra Kai.png",
+      "description": "Décadas depois do torneio que mudou suas vidas, a rivalidade entre Johnny Lawrence e Daniel LaRusso reacende em 'Cobra Kai'.",
+      "director": "Josh Heald, Jon Hurwitz, Hayden Schlossberg"
+    },
+    {
+      "id": 7,
+      "title": "La Casa de Papel",
+      "thumbnail": "img/La Casa de Papel.png",
+      "description": "Oito ladrões são trancados na Casa da Moeda da Espanha com reféns, enquanto um cérebro criminoso manipula a polícia para cumprir seu plano.",
+      "director": "Álex Pina"
+    }
+  ],
+  "newReleases": [
+    {
+      "id": 8,
+      "title": "One Piece",
+      "thumbnail": "img/One Piece.png",
+      "description": "Embarque nas aventuras de Monkey D. Luffy e sua tripulação em busca do tesouro One Piece para se tornar o Rei dos Piratas.",
+      "director": "Steven Maeda"
+    },
+    {
+      "id": 9,
+      "title": "Wednesday",
+      "thumbnail": "img/Wednesday.png",
+      "description": "Inteligente, sarcástica e com uma mente sombria, Wandinha Addams investiga uma onda de assassinatos enquanto faz novos amigos e inimigos na Nevermore Academy.",
+      "director": "Tim Burton"
+    },
+    {
+      "id": 10,
+      "title": "The Sandman",
+      "thumbnail": "img/The Sandman.png",
+      "description": "O Mestre dos Sonhos, Morpheus, embarca em uma jornada épica para recuperar seus objetos perdidos e restaurar seu reino depois de ser aprisionado por 105 anos.",
+      "director": "Allan Heinberg & David S. Goyer"
+    },
+    {
+      "id": 11,
+      "title": "Outer Banks",
+      "thumbnail": "img/Outer Banks.png",
+      "description": "Após um furacão, um grupo de adolescentes descobre um segredo que desencadeia uma caça ao tesouro, expondo segredos e revelando uma conspiração.",
+      "director": "Jonas Pate"
+    },
+    {
+      "id": 12,
+      "title": "Arcane",
+      "thumbnail": "img/Arcane.png",
+      "description": "A série se passa na próspera cidade de Piltover, onde a criação da tecnologia 'Hextech' ameaça a convivência entre a cidade e o subsolo.",
+      "director": "Christian Linke & Alex Yee"
+    }
+  ],
+  "myList": [
+    {
+      "id": 13,
+      "title": "Peaky Blinders",
+      "thumbnail": "img/Peaky Blinders.png",
+      "description": "Uma notória gangue em Birmingham, Inglaterra, em 1919, é liderada pelo ambicioso e perigoso Thomas Shelby. Um inspetor implacável chega para limpar a cidade.",
+      "director": "Steven Knight"
+    },
+    {
+      "id": 14,
+      "title": "Breaking Bad",
+      "thumbnail": "img/Breaking Bad.png",
+      "description": "Um professor de química do ensino médio diagnosticado com câncer de pulmão inoperável decide se juntar a um ex-aluno para fabricar e vender metanfetamina para garantir o futuro de sua família.",
+      "director": "Vince Gilligan"
+    },
+    {
+      "id": 15,
+      "title": "The Crown",
+      "thumbnail": "img/The Crown.png",
+      "description": "A série relata a vida da Rainha Elizabeth II desde seu casamento em 1947 até o presente, cobrindo os eventos políticos e pessoais de seu reinado.",
+      "director": "Peter Morgan"
+    }
+  ]
+}
